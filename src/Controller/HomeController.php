@@ -2,7 +2,7 @@
  
 namespace App\Controller;
 
-use Yoop\AbstractController;
+use PHPNinja\AbstractController;
 
 class HomeController extends AbstractController
 {

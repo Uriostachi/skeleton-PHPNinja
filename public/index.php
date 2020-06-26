@@ -2,7 +2,7 @@
  
 require '../vendor/autoload.php';
 
-$kernel = new Yoop\Kernel();
+$kernel = new PHPNinja\Kernel();
 
 
 $router = $kernel->getRouter();
